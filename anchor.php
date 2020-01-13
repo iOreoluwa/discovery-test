@@ -245,7 +245,7 @@
           </label>
          </p>
          <p>
-          <h4 class="questions"> 19. To be able to choose my own work is…</h4>
+          <h4 class="questions"> 19. Learning new technical skills is…</h4>
           <label> Answer
             <input type="number" name="q19" min="0" max="10" required="required">
           </label>

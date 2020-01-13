@@ -127,23 +127,23 @@
          <p>
           <h4>1. I would rather want  people around me appreciate me more for my practical nature 
             and approach than my creative and intuitive nature</h4>
-          <label class="container">You really like it
+          <label class="container">You really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q1" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You Like it
+          <label class="container">You Like it &#40;the statement is like me&#41;
             <input type="radio" name="q1" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q1" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Dislike it
+          <label class="container">Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q1" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q1" value="1">
             <span class="checkmark"></span>
           </label>
@@ -153,23 +153,23 @@
               I would rather paint and sketch a flower than arrange 
               the flowers and pick the leaves
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q2" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q2" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q2" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q2" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q2" value="1">
             <span class="checkmark"></span>
           </label>
@@ -178,46 +178,46 @@
           <h4>3.	Working  at an archeological site, 
             I am the one who inspects the artifacts rather than excavates the artifacts.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q3" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q3" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q3" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q3" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q3" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>4.	I prefer my job description to be that of helping others than being outdoors most of the time.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q4" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q4" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q4" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q4" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q4" value="1">
             <span class="checkmark"></span>
           </label>
@@ -226,23 +226,23 @@
           <h4>5. I would prefer a job that involves convincing and 
               persuading others than the one that involves physical activity and movement
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q5" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q5" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q5" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q5" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q5" value="1">
             <span class="checkmark"></span>
           </label>
@@ -252,23 +252,23 @@
            be the one to index the prices and take account rather than be 
            the one to offload the boxes and set the stage.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q6" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q6" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q6" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q6" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q6" value="1">
             <span class="checkmark"></span>
           </label>
@@ -277,138 +277,138 @@
           <h4>7. I am good at keeping records in appropriate ways that they can 
             be easily retrieved by any other person or me
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q7" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q7" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q7" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q7" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q7" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>8.	Love to start different things even if I do not get to personally finish or run them.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q8" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q8" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q8" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q8" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q8" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>9. I like trying to help people solve their problems.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q9" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q9" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q9" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q9" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q9" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>10.	I am very analytically inquisitive about some concepts that are not easily understood.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q10" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q10" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q10" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q10" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q10" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>11.	I enjoy trying to figure out how things work.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q11" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q11" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q11" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q11" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q11" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>12.	I can put together and repair gadgets.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q12" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q12" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q12" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q12" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q12" value="1">
             <span class="checkmark"></span>
           </label>
@@ -418,23 +418,23 @@
             I would rather study the impact of global warming than build 
             shelters to protect them.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q13" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q13" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q13" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q13" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q13" value="1">
             <span class="checkmark"></span>
           </label>
@@ -444,23 +444,23 @@
             it is more likely to be a Fashion and Artistic trend than 
             the latest Discoveries programme. 
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q14" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q14" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q14" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q14" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q14" value="1">
             <span class="checkmark"></span>
           </label>
@@ -470,23 +470,23 @@
              my contribution would be to search for an innovative recipe rather than 
              offer tips on decoration and presentation.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q15" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q15" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q15" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q15" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q15" value="1">
             <span class="checkmark"></span>
           </label>
@@ -496,46 +496,46 @@
             I rather spend time listening and talking to 
             them than participating in a theatre activity for the kids.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q16" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q16" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q16" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q16" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q16" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>17.	I would like to become famous for a business venture rather than an artistic venture.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q17" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q17" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q17" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q17" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q17" value="1">
             <span class="checkmark"></span>
           </label>
@@ -545,161 +545,161 @@
             neatly hand-written and systematically organized notes and not several diagrammatic 
             representations illustrating the content.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q18" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q18" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q18" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q18" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q18" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>19.	I pay attention to details and I would not  have any issues computing large data.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q19" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q19" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q19" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q19" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q19" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>20.	I can conveniently persuade people to see my own point of view.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q20" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q20" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q20" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q20" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q20" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>21.	I interact with people freely without inhibitions.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q21" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q21" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q21" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q21" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q21" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>22.	I love to research deeply into a topic that interests me.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q22" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q22" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q22" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q22" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q22" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>23.	Someday, I would love to put songs, poem or fictions together.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q23" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q23" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q23" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q23" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q23" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>24.	To use my hand to build things comes naturally easy to me.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q24" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q24" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q24" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q24" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q24" value="1">
             <span class="checkmark"></span>
           </label>
@@ -709,23 +709,23 @@
             cooking or repairing to supplement my income than childcare or social work, 
             childcare or tutoring.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q25" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q25" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q25" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q25" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q25" value="1">
             <span class="checkmark"></span>
           </label>
@@ -735,46 +735,46 @@
           I am more interested in playing music and performing to a large audience than facilitating
            relationships among members.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q26" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q26" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q26" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q26" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q26" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
          <p>
           <h4>27. Working in a pet store, I would enjoy observing animal behavior than Interacting with customers.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q27" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q27" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q27" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q27" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q27" value="1">
             <span class="checkmark"></span>
           </label>
@@ -782,23 +782,23 @@
         <p>
           <h4>28.	I am more uncomfortable when I lack access to people to connect with than when
            I lack resources to gather information.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q28" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q28" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q28" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q28" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q28" value="1">
             <span class="checkmark"></span>
           </label>
@@ -808,184 +808,184 @@
             I would rather be a director of Operation
              than a Director of Research on autoimmune diseases.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q29" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q29" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q29" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q29" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q29" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>30.	 I would rather conduct a financial trends analysis than a critical and scientific inquiry.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q30" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q30" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q30" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q30" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q30" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>31.	I am good at organizing things like folders, files and desks in an office</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q31" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q31" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q31" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q31" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q31" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>32.	I love to motivate sales people to perform.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q32" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q32" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q32" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q32" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q32" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>33.	I connect with people easily and I like to teach and train others.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q33" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q33" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q33" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q33" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q33" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>34.	I love to research, analyze problems and situations.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q34" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q34" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q34" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q34" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q34" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>35.	Someday if there is an opportunity I would love to direct a stage play. </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q35" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q35" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q35" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q35" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q35" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>36.	I like to work on cars and any other machines I use. </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q36" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q36" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q36" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q36" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q36" value="1">
             <span class="checkmark"></span>
           </label>
@@ -995,23 +995,23 @@
             my immediate response is to touch and feel 
             it to see how it works rather than to think of ways to market it.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q37" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q37" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q37" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q37" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q37" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1020,23 +1020,23 @@
           <h4>38.	With equal pay and benefits in an advertising company 
             I would prefer to be the one   creating new concepts than leading the design team.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q38" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q38" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q38" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q38" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q38" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1046,23 +1046,23 @@
             I was the Scientist who analyzed and verified the findings and not the fundraiser
             who initiated the research project.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q39" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q39" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q39" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q39" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q39" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1071,23 +1071,23 @@
           <h4>40.	I am more comfortable in the role of serving and helping my colleagues solve their problems 
                 than guiding and motivating them to sell.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q40" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q40" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q40" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q40" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q40" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1096,23 +1096,23 @@
           <h4>41.	I am more comfortable in the role of guiding and
              motivating my colleagues to sell than serving and helping them to solve their problems.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q41" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q41" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q41" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q41" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q41" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1122,161 +1122,161 @@
               the one in charge of looking through applications and filing them 
               appropriately and not the one to welcome people looking forward to joining the Association. 
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q42" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q42" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q42" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q42" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q42" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>43.	I neatly keep records of other people in a form that can easily be retrieved.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q43" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q43" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q43" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q43" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q43" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>44.	I love to negotiate terms of a contract and business deals.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q44" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q44" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q44" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q44" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q44" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>45. I love to teach a group of young people social skills conveniently.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q45" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q45" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q45" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q45" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q45" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>46. I am generally level- headed and undisturbed, I do not worry about situations I can’t control</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q46" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q46" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q46" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q46" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q46" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>47.	Designing the cover of a magazine is something I would love to do if the opportunity shows up.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q47" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q47" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q47" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q47" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q47" value="1">
             <span class="checkmark"></span>
           </label>
         </p>
         <p>
           <h4>48.	I am comfortable working with my hands either to build or repair.</h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q48" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q48" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q48" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q48" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q48" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1285,23 +1285,23 @@
           <h4>49.	People recognize me for my ability
             to work with my hands more than the ability to organize information in a methodical way.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q49" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q49" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q49" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q49" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q49" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1310,23 +1310,23 @@
           <h4>50.	With equal pay, condition and benefits I would choose to be the
            Head of Advertising Department than be the Head of Accounting Department 
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q50" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q50" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q50" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q50" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q50" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1335,23 +1335,23 @@
           <h4>51. If I receive a prestigious award from the Museum. I would like it to be for Research on the Origin 
             of certain exhibits than for the compilation of donations and book keeping.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q51" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q51" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q51" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q51" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q51" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1359,23 +1359,23 @@
         <p>
           <h4>52.	In a business, I prefer people management to account management.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q52" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q52" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q52" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q52" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q52" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1384,23 +1384,23 @@
           <h4>53.	In a team, I would rather choose to ensure and take up responsibility for the team's success
              than choose the role of carefully following and recording the team's progress.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q53" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q53" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q53" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q53" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q53" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1409,23 +1409,23 @@
           <h4>54.	Supporting a candidate in a political campaign, I will rather take a job role that makes me 
             analyze polls and calculate statistics than participate in neighbourhood meetings.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q54" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q54" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q54" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q54" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q54" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1433,23 +1433,23 @@
         <p>
           <h4>55.	I love to track the financial expenses of a large company.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q55" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q55" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q55" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q55" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q55" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1457,23 +1457,23 @@
         <p>
           <h4>56.	I love to design the marketing plan for a product.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q56" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q56" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q56" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q56" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q56" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1481,23 +1481,23 @@
         <p>
           <h4>57.	I can conveniently lead a structured group discussion.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q57" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q57" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q57" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q57" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q57" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1505,23 +1505,23 @@
         <p>
           <h4>58.	I always find myself drawn into the rigour of intellectual activities.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q58" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q58" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q58" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q58" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q58" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1529,23 +1529,23 @@
         <p>
           <h4>59.	I am very expressive, creative and intuitive.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q59" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q59" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q59" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q59" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q59" value="1">
             <span class="checkmark"></span>
           </label>
@@ -1553,23 +1553,23 @@
         <p>
           <h4>60.	Without any stress I can engage in Technical and manual activities.
           </h4>
-          <label class="container">You Really like it
+          <label class="container">You Really like it &#40;the statement is really much like me&#41;
             <input type="radio" name="q60" value="5" required="required">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You like it
+          <label class="container">You like it &#40;the statement is like me&#41;
             <input type="radio" name="q60" value="4">
             <span class="checkmark"></span>
           </label>
-          <label class="container">You are neutral about it
+          <label class="container">You are neutral about it &#40;the statement is a neutral one to me&#41;
             <input type="radio" name="q60" value="3">
             <span class="checkmark"></span>
           </label>
-          <label class="container"> Dislike it
+          <label class="container"> Dislike it &#40; The statement is not like me &#41;
             <input type="radio" name="q60" value="2">
             <span class="checkmark"></span>
           </label>
-          <label class="container">Really Dislike
+          <label class="container">Really Dislike &#40;the statement is not like me at all&#41;
             <input type="radio" name="q60" value="1">
             <span class="checkmark"></span>
           </label>
