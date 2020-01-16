@@ -78,6 +78,16 @@
         border-radius: 50%;
       }
 
+
+      .boxed {
+        border : 2px solid #ccc;
+        padding-bottom: 1.5%;
+        padding-left: 1%;
+        width : 250px;
+        background-color : #B0C4DE;
+    
+      }
+
       /* On mouse-over, add a grey background color */
       .container:hover input ~ .checkmark {
         background-color: #ccc;
@@ -139,971 +149,1019 @@
   <section id="form-section">
     <form name="iForm" action="disc.php" method="post" enctype="multipart/form-data">
       <p>
-        <h1>1</h1>
-        <h4>Forceful</h4>
+      <div class="boxed">
+          <h1>1</h1>
+          <h4>Forceful</h4>
+          <label class="container">Most
+            <input type="radio" name="a1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="a2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Expressive</h4>
         <label class="container">Most
-          <input type="radio" name="a1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="a2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Expressive</h4>
-      <label class="container">Most
-          <input type="radio" name="a1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="a2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Even Tempered</h4>
-      <label class="container">Most
-          <input type="radio" name="a1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="a2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Compliant</h4>
-      <label class="container">Most
-          <input type="radio" name="a1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="a2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="a1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="a2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Even Tempered</h4>
+        <label class="container">Most
+            <input type="radio" name="a1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="a2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Compliant</h4>
+        <label class="container">Most
+            <input type="radio" name="a1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="a2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
     
       <p>
-        <h1>2</h1>
-        <h4>Assertive</h4>
+      <div class="boxed">
+          <h1>2</h1>
+          <h4>Assertive</h4>
+          <label class="container">Most
+            <input type="radio" name="b1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="b1" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Playful</h4>
         <label class="container">Most
-          <input type="radio" name="b1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="b1" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Playful</h4>
-      <label class="container">Most
-          <input type="radio" name="b1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="b2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Reserved</h4>
-      <label class="container">Most
-          <input type="radio" name="b1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="b2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Agreable</h4>
-      <label class="container">Most
-          <input type="radio" name="b1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="b2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="b1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="b2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Reserved</h4>
+        <label class="container">Most
+            <input type="radio" name="b1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="b2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Agreable</h4>
+        <label class="container">Most
+            <input type="radio" name="b1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="b2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
       
       <p>
-        <h1>3</h1>
-        <h4>Bold</h4>
+      <div class="boxed">
+          <h1>3</h1>
+          <h4>Bold</h4>
+          <label class="container">Most
+            <input type="radio" name="c1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="c2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Optimistic</h4>
         <label class="container">Most
-          <input type="radio" name="c1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="c2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Optimistic</h4>
-      <label class="container">Most
-          <input type="radio" name="c1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="c2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Moderate</h4>
-      <label class="container">Most
-          <input type="radio" name="c1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="c2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Perfectionist</h4>
-      <label class="container">Most
-          <input type="radio" name="c1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="c2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="c1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="c2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Moderate</h4>
+        <label class="container">Most
+            <input type="radio" name="c1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="c2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Perfectionist</h4>
+        <label class="container">Most
+            <input type="radio" name="c1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="c2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>4</h1>
-        <h4>Competitive</h4>
+      <div class="boxed">
+          <h1>4</h1>
+          <h4>Competitive</h4>
+          <label class="container">Most
+            <input type="radio" name="d1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="d2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Sociable</h4>
         <label class="container">Most
-          <input type="radio" name="d1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="d2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Sociable</h4>
-      <label class="container">Most
-          <input type="radio" name="d1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="d2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Gentle</h4>
-      <label class="container">Most
-          <input type="radio" name="d1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="d2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Introspective</h4>
-      <label class="container">Most
-          <input type="radio" name="d1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="d2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="d1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="d2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Gentle</h4>
+        <label class="container">Most
+            <input type="radio" name="d1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="d2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Introspective</h4>
+        <label class="container">Most
+            <input type="radio" name="d1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="d2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       
       <p>
-        <h1>5</h1>
-        <h4>Will-Power</h4>
+      <div class="boxed">
+          <h1>5</h1>
+          <h4>Will-Power</h4>
+          <label class="container">Most
+            <input type="radio" name="e1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="e2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Entertaining</h4>
         <label class="container">Most
-          <input type="radio" name="e1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="e2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Entertaining</h4>
-      <label class="container">Most
-          <input type="radio" name="e1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="e2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Considerate</h4>
-      <label class="container">Most
-          <input type="radio" name="e1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="e2" value="6">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="e1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="e2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Considerate</h4>
+        <label class="container">Most
+            <input type="radio" name="e1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="e2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Cautious</h4>
+        <label class="container">Most
+            <input type="radio" name="e1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="e2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </p>
+
+      
+      <p>
+      <div class="boxed">
+          <h1>6</h1>
+          <h4>Courageous</h4>
+          <label class="container">Most
+            <input type="radio" name="f1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="f2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Inspiring</h4>
+        <label class="container">Most
+            <input type="radio" name="f1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="f2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Loyal</h4>
+        <label class="container">Most
+            <input type="radio" name="f1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="f2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Adaptable</h4>
+        <label class="container">Most
+            <input type="radio" name="f1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="f2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </p>
+
+      
+      <p>
+      <div class="boxed">
+          <h1>7</h1>
+          <h4>Adventurous</h4>
+          <label class="container">Most
+            <input type="radio" name="g1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="g2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Good Mixer</h4>
+        <label class="container">Most
+            <input type="radio" name="g1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="g2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Gentle</h4>
+        <label class="container">Most
+            <input type="radio" name="g1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="g2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Careful</h4>
+        <label class="container">Most
+            <input type="radio" name="g1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="g2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </p>
+
+            
+      <p>
+      <div class="boxed">
+          <h1>8</h1>
+          <h4>Domineering</h4>
+          <label class="container">Most
+            <input type="radio" name="h1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="h2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Enthusiastic</h4>
+        <label class="container">Most
+            <input type="radio" name="h1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="h2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Relaxed</h4>
+        <label class="container">Most
+            <input type="radio" name="h1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="h2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Correct</h4>
+        <label class="container">Most
+            <input type="radio" name="h1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="h2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </p>
+
+            
+      <p>
+      <div class="boxed">
+          <h1>9</h1>
+          <h4>Pioneering</h4>
+          <label class="container">Most
+            <input type="radio" name="i1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="i2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Persuasive</h4>
+        <label class="container">Most
+            <input type="radio" name="i1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="i2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Good Natured</h4>
+        <label class="container">Most
+            <input type="radio" name="i1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="i2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Precise</h4>
+        <label class="container">Most
+            <input type="radio" name="i1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="i2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </p>
+
+      <p>
+      <div class="boxed">
+          <h1>10</h1>
+          <h4>Strong Minded</h4>
+          <label class="container">Most
+            <input type="radio" name="j1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="j2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Outgoing</h4>
+        <label class="container">Most
+            <input type="radio" name="j1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="j2" value="4">
+            <span class="checkmark"></span>
+          </label>
         <h4>Cautious</h4>
-      <label class="container">Most
-          <input type="radio" name="e1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="e2" value="8">
-          <span class="checkmark"></span>
-        </label>
-      </p>
-
-      
-      <p>
-        <h1>6</h1>
-        <h4>Courageous</h4>
         <label class="container">Most
-          <input type="radio" name="f1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="f2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Inspiring</h4>
-      <label class="container">Most
-          <input type="radio" name="f1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="f2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Loyal</h4>
-      <label class="container">Most
-          <input type="radio" name="f1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="f2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Adaptable</h4>
-      <label class="container">Most
-          <input type="radio" name="f1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="f2" value="8">
-          <span class="checkmark"></span>
-        </label>
-      </p>
-
-      
-      <p>
-        <h1>7</h1>
-        <h4>Adventurous</h4>
+            <input type="radio" name="j1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="j2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Accurate</h4>
         <label class="container">Most
-          <input type="radio" name="g1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="g2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Good Mixer</h4>
-      <label class="container">Most
-          <input type="radio" name="g1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="g2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Gentle</h4>
-      <label class="container">Most
-          <input type="radio" name="g1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="g2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Careful</h4>
-      <label class="container">Most
-          <input type="radio" name="g1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="g2" value="8">
-          <span class="checkmark"></span>
-        </label>
-      </p>
-
-            
-      <p>
-        <h1>8</h1>
-        <h4>Domineering</h4>
-        <label class="container">Most
-          <input type="radio" name="h1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="h2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Enthusiastic</h4>
-      <label class="container">Most
-          <input type="radio" name="h1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="h2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Relaxed</h4>
-      <label class="container">Most
-          <input type="radio" name="h1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="h2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Correct</h4>
-      <label class="container">Most
-          <input type="radio" name="h1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="h2" value="8">
-          <span class="checkmark"></span>
-        </label>
-      </p>
-
-            
-      <p>
-        <h1>9</h1>
-        <h4>Pioneering</h4>
-        <label class="container">Most
-          <input type="radio" name="i1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="i2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Persuasive</h4>
-      <label class="container">Most
-          <input type="radio" name="i1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="i2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Good Natured</h4>
-      <label class="container">Most
-          <input type="radio" name="i1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="i2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Precise</h4>
-      <label class="container">Most
-          <input type="radio" name="i1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="i2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="j1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="j2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>10</h1>
-        <h4>Strong Minded</h4>
+      <div class="boxed">
+          <h1>11</h1>
+          <h4>Persistent</h4>
+          <label class="container">Most
+            <input type="radio" name="k1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="k2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Emotional</h4>
         <label class="container">Most
-          <input type="radio" name="j1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="j2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Outgoing</h4>
-      <label class="container">Most
-          <input type="radio" name="j1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="j2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Cautious</h4>
-      <label class="container">Most
-          <input type="radio" name="j1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="j2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Accurate</h4>
-      <label class="container">Most
-          <input type="radio" name="j1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="j2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="k1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="k2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Submissive</h4>
+        <label class="container">Most
+            <input type="radio" name="k1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="k2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Receptive</h4>
+        <label class="container">Most
+            <input type="radio" name="k1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="k2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>11</h1>
-        <h4>Persistent</h4>
+      <div class="boxed">
+          <h1>12</h1>
+          <h4>Vigorous</h4>
+          <label class="container">Most
+            <input type="radio" name="l1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="l2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Influential</h4>
         <label class="container">Most
-          <input type="radio" name="k1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="k2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Emotional</h4>
-      <label class="container">Most
-          <input type="radio" name="k1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="k2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Submissive</h4>
-      <label class="container">Most
-          <input type="radio" name="k1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="k2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Receptive</h4>
-      <label class="container">Most
-          <input type="radio" name="k1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="k2" value="8">
-          <span class="checkmark"></span>
-        </label>
-      </p>
-
-      <p>
-        <h1>12</h1>
-        <h4>Vigorous</h4>
+            <input type="radio" name="l1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="l2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Neighbourly</h4>
         <label class="container">Most
-          <input type="radio" name="l1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="l2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Influential</h4>
-      <label class="container">Most
-          <input type="radio" name="l1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="l2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Neighbourly</h4>
-      <label class="container">Most
-          <input type="radio" name="l1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="l2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Resigned</h4>
-      <label class="container">Most
-          <input type="radio" name="l1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="l2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="l1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="l2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Resigned</h4>
+        <label class="container">Most
+            <input type="radio" name="l1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="l2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
       <!-- STOP/START -->
       <p>
-        <h1>13</h1>
-        <h4>Dogged</h4>
+      <div class="boxed">
+          <h1>13</h1>
+          <h4>Dogged</h4>
+          <label class="container">Most
+            <input type="radio" name="m1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="m2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Open-minded</h4>
         <label class="container">Most
-          <input type="radio" name="m1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="m2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Open-minded</h4>
-      <label class="container">Most
-          <input type="radio" name="m1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="m2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Accomodating</h4>
-      <label class="container">Most
-          <input type="radio" name="m1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="m2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Respectful</h4>
-      <label class="container">Most
-          <input type="radio" name="m1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="m2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="m1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="m2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Accomodating</h4>
+        <label class="container">Most
+            <input type="radio" name="m1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="m2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Respectful</h4>
+        <label class="container">Most
+            <input type="radio" name="m1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="m2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>14</h1>
-        <h4>Self-Reliant</h4>
+      <div class="boxed">
+          <h1>14</h1>
+          <h4>Self-Reliant</h4>
+          <label class="container">Most
+            <input type="radio" name="n1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="n2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Persuasive</h4>
         <label class="container">Most
-          <input type="radio" name="n1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="n2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Persuasive</h4>
-      <label class="container">Most
-          <input type="radio" name="n1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="n2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Sweet</h4>
-      <label class="container">Most
-          <input type="radio" name="n1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="n2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Well Disciplined</h4>
-      <label class="container">Most
-          <input type="radio" name="n1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="n2" value="8">
-          <span class="checkmark"></span>
-        </label>
-      </p>
-
-
-      <p>
-        <h1>15</h1>
-        <h4>Determined</h4>
+            <input type="radio" name="n1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="n2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Sweet</h4>
         <label class="container">Most
-          <input type="radio" name="o1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="o2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Trusting</h4>
-      <label class="container">Most
-          <input type="radio" name="o1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="o2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Patient</h4>
-      <label class="container">Most
-          <input type="radio" name="o1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="o2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Conventional</h4>
-      <label class="container">Most
-          <input type="radio" name="o1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="o2" value="8">
-          <span class="checkmark"></span>
-        </label>
-      </p>
-
-      <p>
-        <h1>16</h1>
-        <h4>Demanding</h4>
+            <input type="radio" name="n1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="n2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Well Disciplined</h4>
         <label class="container">Most
-          <input type="radio" name="p1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="p2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Animated</h4>
-      <label class="container">Most
-          <input type="radio" name="p1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="p2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Self-Controlled</h4>
-      <label class="container">Most
-          <input type="radio" name="p1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="p2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Humble</h4>
-      <label class="container">Most
-          <input type="radio" name="p1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="p2" value="8">
-          <span class="checkmark"></span>
-        </label>
-      </p>
-
-      <p>
-        <h1>17</h1>
-        <h4>Impatient</h4>
-        <label class="container">Most
-          <input type="radio" name="q1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="q2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Attractive</h4>
-      <label class="container">Most
-          <input type="radio" name="q1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="q2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Satisfied</h4>
-      <label class="container">Most
-          <input type="radio" name="q1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="q2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Restrained</h4>
-      <label class="container">Most
-          <input type="radio" name="q1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="q2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="n1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="n2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
 
       <p>
-        <h1>18</h1>
-        <h4>Outspoken</h4>
+      <div class="boxed">
+          <h1>15</h1>
+          <h4>Determined</h4>
+          <label class="container">Most
+            <input type="radio" name="o1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="o2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Trusting</h4>
         <label class="container">Most
-          <input type="radio" name="r1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="r2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Extroverted</h4>
-      <label class="container">Most
-          <input type="radio" name="r1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="r2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Amiable</h4>
-      <label class="container">Most
-          <input type="radio" name="r1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="r2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Fearful</h4>
-      <label class="container">Most
-          <input type="radio" name="r1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="r2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="o1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="o2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Patient</h4>
+        <label class="container">Most
+            <input type="radio" name="o1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="o2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Conventional</h4>
+        <label class="container">Most
+            <input type="radio" name="o1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="o2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>19</h1>
-        <h4>Stubborn</h4>
+      <div class="boxed">
+          <h1>16</h1>
+          <h4>Demanding</h4>
+          <label class="container">Most
+            <input type="radio" name="p1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="p2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Animated</h4>
         <label class="container">Most
-          <input type="radio" name="s1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="s2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Companionable</h4>
-      <label class="container">Most
-          <input type="radio" name="s1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="s2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Good Listener</h4>
-      <label class="container">Most
-          <input type="radio" name="s1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="s2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Diplomatic</h4>
-      <label class="container">Most
-          <input type="radio" name="s1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="s2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="p1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="p2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Self-Controlled</h4>
+        <label class="container">Most
+            <input type="radio" name="p1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="p2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Humble</h4>
+        <label class="container">Most
+            <input type="radio" name="p1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="p2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>20</h1>
-        <h4>Positive</h4>
+      <div class="boxed">
+          <h1>17</h1>
+          <h4>Impatient</h4>
+          <label class="container">Most
+            <input type="radio" name="q1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="q2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Attractive</h4>
         <label class="container">Most
-          <input type="radio" name="t1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="t2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Joyful</h4>
-      <label class="container">Most
-          <input type="radio" name="t1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="t2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Obedient</h4>
-      <label class="container">Most
-          <input type="radio" name="t1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="t2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Timid</h4>
-      <label class="container">Most
-          <input type="radio" name="t1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="t2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="q1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="q2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Satisfied</h4>
+        <label class="container">Most
+            <input type="radio" name="q1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="q2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Restrained</h4>
+        <label class="container">Most
+            <input type="radio" name="q1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="q2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
 
       <p>
-        <h1>21</h1>
-        <h4>High Spirited</h4>
+      <div class="boxed">
+          <h1>18</h1>
+          <h4>Outspoken</h4>
+          <label class="container">Most
+            <input type="radio" name="r1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="r2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Extroverted</h4>
         <label class="container">Most
-          <input type="radio" name="u1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="u2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Talkative</h4>
-      <label class="container">Most
-          <input type="radio" name="u1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="u2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Kind</h4>
-      <label class="container">Most
-          <input type="radio" name="u1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="u2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Hard To Please</h4>
-      <label class="container">Most
-          <input type="radio" name="u1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="u2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="r1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="r2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Amiable</h4>
+        <label class="container">Most
+            <input type="radio" name="r1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="r2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Fearful</h4>
+        <label class="container">Most
+            <input type="radio" name="r1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="r2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>22</h1>
-        <h4>Aggresive</h4>
+      <div class="boxed">
+          <h1>19</h1>
+          <h4>Stubborn</h4>
+          <label class="container">Most
+            <input type="radio" name="s1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="s2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Companionable</h4>
         <label class="container">Most
-          <input type="radio" name="v1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="v2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Popular</h4>
-      <label class="container">Most
-          <input type="radio" name="v1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="v2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Lenient</h4>
-      <label class="container">Most
-          <input type="radio" name="v1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="v2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Devout</h4>
-      <label class="container">Most
-          <input type="radio" name="v1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="v2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="s1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="s2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Good Listener</h4>
+        <label class="container">Most
+            <input type="radio" name="s1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="s2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Diplomatic</h4>
+        <label class="container">Most
+            <input type="radio" name="s1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="s2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>23</h1>
-        <h4>Daring</h4>
+      <div class="boxed">
+          <h1>20</h1>
+          <h4>Positive</h4>
+          <label class="container">Most
+            <input type="radio" name="t1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="t2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Joyful</h4>
         <label class="container">Most
-          <input type="radio" name="w1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="w2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Eager</h4>
-      <label class="container">Most
-          <input type="radio" name="w1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="w2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Sympathetic</h4>
-      <label class="container">Most
-          <input type="radio" name="w1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="w2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Cautious</h4>
-      <label class="container">Most
-          <input type="radio" name="w1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="w2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="t1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="t2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Obedient</h4>
+        <label class="container">Most
+            <input type="radio" name="t1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="t2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Timid</h4>
+        <label class="container">Most
+            <input type="radio" name="t1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="t2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </p>
+
+
+      <p>
+      <div class="boxed">
+          <h1>21</h1>
+          <h4>High Spirited</h4>
+          <label class="container">Most
+            <input type="radio" name="u1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="u2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Talkative</h4>
+        <label class="container">Most
+            <input type="radio" name="u1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="u2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Kind</h4>
+        <label class="container">Most
+            <input type="radio" name="u1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="u2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Hard To Please</h4>
+        <label class="container">Most
+            <input type="radio" name="u1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="u2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
       <p>
-        <h1>24</h1>
-        <h4>Restless</h4>
+      <div class="boxed">
+          <h1>22</h1>
+          <h4>Aggresive</h4>
+          <label class="container">Most
+            <input type="radio" name="v1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="v2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Popular</h4>
         <label class="container">Most
-          <input type="radio" name="x1" value="1" required= "required">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container">Least
-          <input type="radio" name="x2" value="2" required = "required">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Charming</h4>
-      <label class="container">Most
-          <input type="radio" name="x1" value="3">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="x2" value="4">
-          <span class="checkmark"></span>
-        </label>
-      <h4>Peaceful</h4>
-      <label class="container">Most
-          <input type="radio" name="x1" value="5">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="x2" value="6">
-          <span class="checkmark"></span>
-        </label>
-        <h4>Strict</h4>
-      <label class="container">Most
-          <input type="radio" name="x1" value="7">
-          <span class="checkmark"></span>
-        </label>
-        <label class="container"> Least
-          <input type="radio" name="x2" value="8">
-          <span class="checkmark"></span>
-        </label>
+            <input type="radio" name="v1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="v2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Lenient</h4>
+        <label class="container">Most
+            <input type="radio" name="v1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="v2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Devout</h4>
+        <label class="container">Most
+            <input type="radio" name="v1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="v2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </p>
+
+      <p>
+      <div class="boxed">
+          <h1>23</h1>
+          <h4>Daring</h4>
+          <label class="container">Most
+            <input type="radio" name="w1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="w2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Eager</h4>
+        <label class="container">Most
+            <input type="radio" name="w1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="w2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Sympathetic</h4>
+        <label class="container">Most
+            <input type="radio" name="w1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="w2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Cautious</h4>
+        <label class="container">Most
+            <input type="radio" name="w1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="w2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </p>
+
+      <p>
+      <div class="boxed">
+          <h1>24</h1>
+          <h4>Restless</h4>
+          <label class="container">Most
+            <input type="radio" name="x1" value="1" required= "required">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container">Least
+            <input type="radio" name="x2" value="2" required = "required">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Charming</h4>
+        <label class="container">Most
+            <input type="radio" name="x1" value="3">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="x2" value="4">
+            <span class="checkmark"></span>
+          </label>
+        <h4>Peaceful</h4>
+        <label class="container">Most
+            <input type="radio" name="x1" value="5">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="x2" value="6">
+            <span class="checkmark"></span>
+          </label>
+          <h4>Strict</h4>
+        <label class="container">Most
+            <input type="radio" name="x1" value="7">
+            <span class="checkmark"></span>
+          </label>
+          <label class="container"> Least
+            <input type="radio" name="x2" value="8">
+            <span class="checkmark"></span>
+          </label>
+        </div>
       </p>
 
      <p>

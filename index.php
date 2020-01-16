@@ -106,10 +106,10 @@
         The following statements concern how you see yourself in different situations. Your task is to indicate the strength of your agreement with each statement as it concerns you, using a scale, in which 1 represents Strong Disagreement, 5 represents Strong Agreement, and 2, 3, and 4 represent intermediate judgments. For each statement, tick the number that represents the strength of your agreement using the scale below:
         <ul>
           <li>Strongly Disagree</li>
-          <li>Strongly Disagree</li>
-          <li>Strongly Disagree</li>
-          <li>Strongly Disagree</li>
-          <li>Strongly Disagree</li>
+          <li>Disagree</li>
+          <li>Neither Agree nor Disagree</li>
+          <li>Agree</li>
+          <li>Strongly Agree</li>
         </ul>
      </p>
      <p></p>
