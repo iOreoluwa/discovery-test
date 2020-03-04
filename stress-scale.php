@@ -88,7 +88,7 @@
   <body>
     <header>
       <a href="index.php" id="logo">
-        <h1>WellnesswithArinola</h1>
+        <h1>WellnessWithArinola</h1>
       </a>
      <nav>
         <!-- <ul>
