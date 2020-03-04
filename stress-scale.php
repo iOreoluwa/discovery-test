@@ -88,7 +88,7 @@
   <body>
     <header>
       <a href="index.php" id="logo">
-        <h1>DISCOVERY</h1>
+        <h1>WellnesswithArinola</h1>
       </a>
      <nav>
         <!-- <ul>
@@ -103,7 +103,7 @@
      <h4>Perceived Stress Scale</h4>
      <h5>Instruction:</h5>
      <p>
-     The Perceived Stress Scale (PSS) helps to us understand how different situations 
+     The Perceived Stress Scale (PSS) helps us to understand how different situations 
      affect our feelings and our perceived stress. This is an adapted instrument from assessment
      developed in 1983 by Sheldon Cohen. the Perceived Stress Scale (PSS) is the most widely used
      psychological instrument for measuring the perception of stress. It is a measure of the degree
@@ -519,14 +519,51 @@
         <h1>YOUR RESULTS</h1>
         <hr/>";
             if($total > 0 && $total <= 13) {
-                echo "Low Percieved Stress";
+                echo "Low Percieved Stress (Score '$total')
+                <p>Perceived stress is the feelings or thoughts that an individual has about how much stress they are under at a given point in time or over a given time period.
+                Perceived stress incorporates feelings about the uncontrollability and unpredictability of one’s life, how often one has to deal with irritating hassles, how much change is occurring in one’s life, and confidence in one’s ability to deal with problems or difficulties. It is not measuring the types or frequencies of stressful events which have happened to a person, but rather how an individual feel about the general stressfulness of their life and their ability to handle such stress. Individuals may suffer similar negative life events but appraise the impact or severity of these to different extents as a result of factors such as personality, coping resources, and support. In this way, perceived stress reflects the interaction between an individual and their environment which they appraise as...
+                The Perceived Stress Scale is interesting and important because your perception of what is happening
+                in your life is most important. Consider the idea that two individuals could have the exact same events
+                and experiences in their lives for the past month. Depending on their perception, total score could put
+                one of those individuals in the low stress category and the total score could put the second person in
+                the high stress category.
+                You have a perception that you are on top of the situations in your space. It may also mean that you have let things run on their own and you are not bothered at all. Your low PSS score is not the same as the events in the last one month. It is shows that you chosen to see yourself not stressed. Hope this perception is not a carefree attitude.
+                <p></p> 
+                Disclaimer: The scores on the following self-assessment do not reflect any particular diagnosis or course of treatment.</p>";
             } elseif ($total >= 14 && $total <= 26) {
-                echo "Moderate Percieved Stress";
+                echo "Moderate Percieved Stress  (Score '$total')
+                <p>Perceived stress is the feelings or thoughts that an individual has about how much stress they are under at a given point in time or over a given time period.
+
+                Perceived stress incorporates feelings about the uncontrollability and unpredictability of one’s life, how often one has to deal with irritating hassles, how much change is occurring in one’s life, and confidence in one’s ability to deal with problems or difficulties. It is not measuring the types or frequencies of stressful events which have happened to a person, but rather how an individual feels about the general stressfulness of their life and their ability to handle such stress. Individuals may suffer similar negative life events but appraise the impact or severity of these to different extents as a result of factors such as personality, coping resources, and support. In this way, perceived stress reflects the interaction between an individual and their environment which they appraise as...
+                
+                The Perceived Stress Scale is interesting and important because your perception of what is happening
+                in your life is most important. Consider the idea that two individuals could have the exact same events
+                and experiences in their lives for the past month. Depending on their perception, total score could put
+                one of those individuals in the low stress category and the total score could put the second person in
+                the high stress category.
+                However, you think you are moderately stressed . You are not overwhelmed by the activities and events of your life in the last one month. You have done well to manage the stress, but you can do better. You think life is unpredictable and  overloading yet controllable. You need to watch critical factors that make things becoming unbearable. 
+                
+                <p></p>
+                Disclaimer: The scores on the following self-assessment do not reflect any particular diagnosis or course of treatment.</p>";
             } elseif($total >= 27 && $total <=40 ) {
-                echo "High Percieved Stress";
+                echo "High Percieved Stress  (Score '$total')
+                <p>Perceived stress is the feelings or thoughts that an individual has about how much stress they are under at a given point in time or over a given time period.
+
+                Perceived stress incorporates feelings about the uncontrollability and unpredictability of one’s life, how often one has to deal with irritating hassles, how much change is occurring in one’s life, and confidence in one’s ability to deal with problems or difficulties. It is not measuring the types or frequencies of stressful events which have happened to a person, but rather how an individual feels about the general stressfulness of their life and their ability to handle such stress. Individuals may suffer similar negative life events but appraise the impact or severity of these to different extents as a result of factors such as personality, coping resources, and support. In this way, perceived stress reflects the interaction between an individual and their environment which they appraise as...
+                
+                The Perceived Stress Scale is interesting and important because your perception of what is happening
+                in your life is most important. Consider the idea that two individuals could have the exact same events
+                and experiences in their lives for the past month. Depending on their perception, total score could put
+                one of those individuals in the low stress category and the total score could put the second person in
+                the high stress category.
+                However, your score indicates you perceive to have high stress, and if you are truly, you might consider learning new stress reduction techniques as well as increasing your exercise to at least three times a week.  High psychological stress is associated with high blood pressure, higher BMI, larger waist to hip ratio, shorter telomere length, higher cortisol levels, suppressed immune function, decreased sleep, and increased alcohol consumption. These are all important risk factors for cardiovascular disease.
+                You also think events around you are uncontrollable and going out of hands. You think life is  unpredictable, uncontrollable, and overloading. You may need to get help in area of self-management. You think you are overwhelmed by the happenings in your space. It is important to have a feeling in your mind that you are in control. Control is first internal.  You may seek coaching to help you put things in proper perspective. 
+                
+                <p></p>
+               Disclaimer: The scores on the following self-assessment do not reflect any particular diagnosis or course of treatment.</p>";
             }
       
-      echo "</div>";
+           echo "</div>";
           
           
           
